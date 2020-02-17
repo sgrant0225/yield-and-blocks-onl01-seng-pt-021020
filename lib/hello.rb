@@ -7,4 +7,4 @@ i = i + 1
 end
 
 # call your method here!
-
+hello_t(array)
